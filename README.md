@@ -1,3 +1,3 @@
 # learngit
 first time to learn github 
-author anand 
+author anand kumar
